@@ -8,4 +8,4 @@ public class Main {
         calc.println.accept(c);
     }
 }
-//в интерфейсе BinaryOperator<Integer> devide возможно деление на 0.
+//в интерфейсе BinaryOperator<Integer> devide было возможно деление на 0.
